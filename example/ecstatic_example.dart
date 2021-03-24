@@ -3,6 +3,7 @@ import 'package:ecstatic/ecstatic.dart';
 void main() {
   final platform = LocalPlatform();
   print(platformAsString(platform));
+  print(dateTimeNow());
 }
 
 String platformAsString(Platform platform) {

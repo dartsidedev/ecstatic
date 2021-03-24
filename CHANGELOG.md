@@ -1,6 +1,9 @@
+## 0.0.4
+
+- Add `NowFunction`, `dateTimeNow`.
 ## 0.0.3
 
-- Add Platform
+- Add `Platform`, `LocalPlatform`.
 
 ## 0.0.1
 

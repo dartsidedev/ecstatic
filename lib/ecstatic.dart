@@ -9,3 +9,4 @@ library ecstatic;
 
 export 'src/ecstatic_base.dart';
 export 'src/platform.dart';
+export 'src/now.dart';

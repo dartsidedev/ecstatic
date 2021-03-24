@@ -1,6 +1,6 @@
 name: ecstatic
 description: This package provides API parity with several classes of the Dart SDK but using instance properties rather than static properties.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/dartsidedev/ecstatic
 issues: https://github.com/dartsidedev/ecstatic/issues
 
