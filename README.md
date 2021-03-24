@@ -1,22 +1,15 @@
-A library for Dart developers.
+# `ecstatic`
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+This package provides API parity with several classes of the Dart SDK
+but using instance properties rather than static properties.
 
-## Usage
+This difference enables the use of these APIs in tests, where you can provide
+mock implementations.
 
-A simple usage example:
+Many of these classes are taken from the Flutter and Dart codebases.
 
-```dart
-import 'package:ecstatic/ecstatic.dart';
+## `Platform`
 
-main() {
-  var awesome = new Awesome();
-}
-```
+* from `flutter_tools/lib/src/base/platform.dart`
 
-## Features and bugs
 
-Please file feature requests and bugs at the [issue tracker][tracker].
-
-[tracker]: http://example.com/issues/replaceme
